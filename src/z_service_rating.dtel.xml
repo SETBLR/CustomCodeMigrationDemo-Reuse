@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_SERVICE_RATING</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>Z_EVALUATION_RATING</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Evaluation Indicator</DDTEXT>
+    <REPTEXT>How was the service?</REPTEXT>
+    <SCRTEXT_S>Service</SCRTEXT_S>
+    <SCRTEXT_M>Service Rating</SCRTEXT_M>
+    <SCRTEXT_L>Service Rating</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>늑</LANGU>
+    <LANGU>닱</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>늑</DDLANGUAGE>
+     <DDTEXT>DTEL Z_SERVICE_RATING</DDTEXT>
+     <REPTEXT>DTEL Z_SERVICE_RATING</REPTEXT>
+     <SCRTEXT_S>DTEL&gt;Z_SER</SCRTEXT_S>
+     <SCRTEXT_M>DTEL&gt;Z_SERVICE_RATIN</SCRTEXT_M>
+     <SCRTEXT_L>DTEL Z_SERVICE_RATING</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>닱</DDLANGUAGE>
+     <DDTEXT>[Ĕʋąĺűąţįŏŋ∙Ĭŋƌįċąţŏŗ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</DDTEXT>
+     <REPTEXT>[Ĥŏŵ∙ŵąş∙ţĥē∙şēŗʋįċē?∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</REPTEXT>
+     <SCRTEXT_S>[Ŝēŗʋįċē∙]</SCRTEXT_S>
+     <SCRTEXT_M>[Ŝēŗʋįċē∙Řąţįŋğ∙∙∙∙]</SCRTEXT_M>
+     <SCRTEXT_L>[Ŝēŗʋįċē∙Řąţįŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

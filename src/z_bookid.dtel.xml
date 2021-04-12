@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_BOOKID</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>08</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Booking ID</DDTEXT>
+    <REPTEXT>Booking</REPTEXT>
+    <SCRTEXT_S>Booking</SCRTEXT_S>
+    <SCRTEXT_M>Booking</SCRTEXT_M>
+    <SCRTEXT_L>Booking</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000008</LENG>
+    <OUTPUTLEN>000008</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>늑</LANGU>
+    <LANGU>닱</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>늑</DDLANGUAGE>
+     <DDTEXT>DTEL Z_BOOKID</DDTEXT>
+     <REPTEXT>DTEL&gt;Z_B</REPTEXT>
+     <SCRTEXT_S>DTEL&gt;Z_BOO</SCRTEXT_S>
+     <SCRTEXT_M>DTEL Z_BOOKID</SCRTEXT_M>
+     <SCRTEXT_L>DTEL Z_BOOKID</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>닱</DDLANGUAGE>
+     <DDTEXT>[Ɓŏŏķįŋğ∙ĬĎ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</DDTEXT>
+     <REPTEXT>[Ɓŏŏķįŋ]</REPTEXT>
+     <SCRTEXT_S>[Ɓŏŏķįŋğ∙]</SCRTEXT_S>
+     <SCRTEXT_M>[Ɓŏŏķįŋğ∙∙∙∙∙∙∙∙∙∙∙]</SCRTEXT_M>
+     <SCRTEXT_L>[Ɓŏŏķįŋğ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

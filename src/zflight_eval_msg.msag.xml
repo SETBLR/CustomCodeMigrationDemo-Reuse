@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZFLIGHT_EVAL_MSG</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Messages for Flight Evaluaiton Application</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZFLIGHT_EVAL_MSG</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Error in Flight Evaluation Application</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZFLIGHT_EVAL_MSG</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Fatal Error</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZFLIGHT_EVAL_MSG</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>HUG</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZFLIGHT_EVAL_MSG</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Another exception occured</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>늑</LANGU>
+    <LANGU>닱</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>늑</SPRSL>
+     <ARBGB>ZFLIGHT_EVAL_MSG</ARBGB>
+     <STEXT>MSAG ZFLIGHT_EVAL_MSG</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>닱</SPRSL>
+     <ARBGB>ZFLIGHT_EVAL_MSG</ARBGB>
+     <STEXT>[Μēşşąğēş∙ƒŏŗ∙Ƒĺįğĥţ∙Ĕʋąĺűąįţŏŋ∙Āρρĺįċąţįŏŋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>늑</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>MESS ZFLIGHT_EVAL_MSG    001</TEXT>
+    </item>
+    <item>
+     <SPRSL>늑</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>MESS ZFLIGHT_EVAL_MSG    002</TEXT>
+    </item>
+    <item>
+     <SPRSL>늑</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>MESS ZFLIGHT_EVAL_MSG    003</TEXT>
+    </item>
+    <item>
+     <SPRSL>늑</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>MESS ZFLIGHT_EVAL_MSG    004</TEXT>
+    </item>
+    <item>
+     <SPRSL>닱</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>[Ĕŗŗŏŗ∙įŋ∙Ƒĺįğĥţ∙Ĕʋąĺűąţįŏŋ∙Āρρĺįċąţįŏŋ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</TEXT>
+    </item>
+    <item>
+     <SPRSL>닱</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>[Ƒąţąĺ∙Ĕŗŗŏŗ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</TEXT>
+    </item>
+    <item>
+     <SPRSL>닱</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>[ĤŮĢ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</TEXT>
+    </item>
+    <item>
+     <SPRSL>닱</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>[Āŋŏţĥēŗ∙ēχċēρţįŏŋ∙ŏċċűŗēƌ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙]</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
